@@ -5,6 +5,8 @@ Spring 2019
 
 UML Diagrams
 
+Remember to always pull changes before making any changes.
+
 
 ## Setting Up
 1. Navigate to a new, empty folder in the terminal with `cd`
