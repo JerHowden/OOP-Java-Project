@@ -11,7 +11,7 @@ UML Diagrams
    
    Type `git init`
    
-2. Type `git pull https://github.com/JerHowden/OOP-Java-Project.git`
+2. Type `git clone https://github.com/JerHowden/OOP-Java-Project.git`
 
 ## Pulling Changes
 1. Type `git pull origin`
