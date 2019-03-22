@@ -7,7 +7,7 @@ UML Diagrams
 
 
 ## Setting Up
-1. Navigate to a new, empty folder in the terminal
+1. Navigate to a new, empty folder in the terminal with `cd`
    
    Type `git init`
    
